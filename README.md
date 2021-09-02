@@ -28,7 +28,7 @@ Some data is publicly available as well. Please contact me for access and condit
 
 #### Chinchilla N-body Simulation Set
 
-This is a series of low- and high-resolution boxes with convergence tests. They are stored at SLAC [here](ttp://www.slac.stanford.edu/~beckermr/chinchilla/).
+This is a series of low- and high-resolution boxes with convergence tests. They are stored at SLAC [here](http://www.slac.stanford.edu/~beckermr/chinchilla/).
 
 #### Cluster Shear and Convergence Fields
 
