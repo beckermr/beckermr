@@ -26,7 +26,7 @@ You can see all of my papers on
 
 ### code & data
 
-You can find all of my code here on GitHub or on [Bitbucket](https://bitbucket.org/beckermr/).
+You can find all of my code here on GitHub.
 
 Some data is publicly available as well. Please contact me for access and conditions of use for these datasets.
 
