@@ -37,15 +37,3 @@ This is a series of low- and high-resolution boxes with convergence tests. They 
 #### Cluster Shear and Convergence Fields
 
 The shear and convergence fields around massive clusters from [Becker & Kravtsov (2011)](http://arxiv.org/abs/1011.1681) are available [here](http://www.slac.stanford.edu/~beckermr/L1GpcAhaloweaklensingfields/).
-
-### cosmoWidget
-
-cosmoWidget is tool to calculate cosmological distances, times, E(z) factors, etc.
-It also converts NFW halo definitions and computes N-body particle parameters.
-Simply specify any flat or non-flat cosmology with the Dark Energy equation of state w
-equal to minus one along with the redshift or scale factor. The integrations are done with
-Simpson's rule with 10,000 points giving it an accuracy of approximately 1 kpc/h.
-
-#### downloading and installation
-
-Click this [link](https://beckermr.github.io/images/CosmoWidget.zip) to download the most recent version. Then double click the download twice to install.
