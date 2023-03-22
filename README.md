@@ -14,9 +14,7 @@ email: mrbecker [at] anl [dot] gov
 
 It is easiest to reach me by email, but I can meet in person in the Chicagoland area.
 
-### cv & publications
-
-My CV is available [here](https://beckermr.github.io/images/cvpubs.pdf).
+### publications
 
 You can see all of my papers on
 
