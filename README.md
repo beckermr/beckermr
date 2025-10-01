@@ -19,5 +19,6 @@ It is easiest to reach me by email, but I can meet in person in the Chicagoland 
 You can see all of my papers on
 
   - [Google Scholar](https://scholar.google.com/citations?hl=en&user=IvmGG7gAAAAJ&view_op=list_works&sortby=pubdate)
-  - [ADS](https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0001-7774-2246&sort=date+desc)
   - [ORCID](https://orcid.org/0000-0001-7774-2246)
+  - [SciX](https://scixplorer.org/search?n=10&p=1&q=orcid%3A0000-0001-7774-2246&sort=date+desc)
+  - [ADS](https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0001-7774-2246&sort=date+desc)
